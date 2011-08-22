@@ -1,0 +1,25 @@
+IMPEIC/Gdr Stic-Santé 
+
+
+Enfin pour répondre directement à Mireille, nous avons un good_percent
+of detection compris entre 61% et 100% sur l'endocarde entre 70% et
+                             % 100% sur l'épicarde sur les 2 bases
+                             % confondues, en moyenne autour de 92%...
+                             % et des indices de Dice autour de 0.88
+                             % entre 0.80 e t 0.95....
+
+A. Kissi;C. Tilmant;A. De
+Cesare;A. Comte;L. Najman;A.Lalande;P. Clarysse;M. Garreau;L. Sarry;F. Frouin,
+Initiative Multicentrique pour une Plateforme d’Evaluation en Imagerie
+Cardiaque. Journées RITS de Recherche en Imagerie et Technologies de
+la Santé, 2009, Lille
+
+The content of the paper should describe the LV contour finding
+algorithm as well as any user interaction that is required.  The
+results section should focus on the evaluation from the workshop,
+although it is permissible in addition to refer to previous results
+with other datasets.  The discussion should refer to your algorithm as
+well as the evaluation results. The Midas journal issue that will
+contain your papers will also include our own paper describing the
+data, the evaluation framework and related concerns.  Therefore, it is
+not required for participants to describe these in detail.
